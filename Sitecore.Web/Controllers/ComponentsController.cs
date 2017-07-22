@@ -14,6 +14,9 @@ namespace Sitecore.Web.Controllers
     {
         public ViewResult HeroSlider()
         {
+
+
+            
             Item contentItem = null;
 
             var database = Context.Database;
