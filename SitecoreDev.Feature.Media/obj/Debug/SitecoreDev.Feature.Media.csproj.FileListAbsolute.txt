@@ -42,6 +42,5 @@ F:\Projects\Sitecore\SitecoreDev.Feature.Media\bin\System.Web.Webpages.Deploymen
 F:\Projects\Sitecore\SitecoreDev.Feature.Media\bin\System.Web.Webpages.Razor.xml
 F:\Projects\Sitecore\SitecoreDev.Feature.Media\bin\System.Web.Helpers.xml
 F:\Projects\Sitecore\SitecoreDev.Feature.Media\bin\System.Web.Mvc.xml
-F:\Projects\Sitecore\SitecoreDev.Feature.Media\obj\Debug\SitecoreDev.Feature.Media.csprojResolveAssemblyReference.cache
 F:\Projects\Sitecore\SitecoreDev.Feature.Media\obj\Debug\SitecoreDev.Feature.Media.dll
 F:\Projects\Sitecore\SitecoreDev.Feature.Media\obj\Debug\SitecoreDev.Feature.Media.pdb

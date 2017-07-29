@@ -30,4 +30,3 @@ F:\Projects\Sitecore\Foundation\SitecoreExtensions\SitecoreDev.Foundation.Siteco
 F:\Projects\Sitecore\Foundation\SitecoreExtensions\SitecoreDev.Foundation.SitecoreExtensions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 F:\Projects\Sitecore\Foundation\SitecoreExtensions\SitecoreDev.Foundation.SitecoreExtensions\obj\Debug\SitecoreDev.Foundation.SitecoreExtensions.dll
 F:\Projects\Sitecore\Foundation\SitecoreExtensions\SitecoreDev.Foundation.SitecoreExtensions\obj\Debug\SitecoreDev.Foundation.SitecoreExtensions.pdb
-F:\Projects\Sitecore\Foundation\SitecoreExtensions\SitecoreDev.Foundation.SitecoreExtensions\obj\Debug\SitecoreDev.Foundation.SitecoreExtensions.csprojResolveAssemblyReference.cache

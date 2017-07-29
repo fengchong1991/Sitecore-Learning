@@ -41,6 +41,5 @@ F:\Projects\Sitecore\Project\SitecoreDev\SitecoreDev.Website\bin\System.Web.Webp
 F:\Projects\Sitecore\Project\SitecoreDev\SitecoreDev.Website\bin\System.Web.Webpages.Razor.xml
 F:\Projects\Sitecore\Project\SitecoreDev\SitecoreDev.Website\bin\System.Web.Helpers.xml
 F:\Projects\Sitecore\Project\SitecoreDev\SitecoreDev.Website\bin\System.Web.Mvc.xml
-F:\Projects\Sitecore\Project\SitecoreDev\SitecoreDev.Website\obj\Debug\SitecoreDev.Website.csprojResolveAssemblyReference.cache
 F:\Projects\Sitecore\Project\SitecoreDev\SitecoreDev.Website\obj\Debug\SitecoreDev.Website.dll
 F:\Projects\Sitecore\Project\SitecoreDev\SitecoreDev.Website\obj\Debug\SitecoreDev.Website.pdb

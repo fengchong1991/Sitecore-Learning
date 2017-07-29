@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.14
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{CAD05374-5092-4BCE-818E-68FD03B97F47}"
 EndProject
@@ -32,6 +32,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Media", "Media", "{AE0A6976
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreDev.Feature.Media", "SitecoreDev.Feature.Media\SitecoreDev.Feature.Media.csproj", "{CA46EF8D-229B-40F6-8822-72E40928979F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Articles", "Articles", "{1BB25105-F854-4351-B451-71A61E65B0D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreDev.Feature.Articles", "Feature\Articles\SitecoreDev.Feature.Articlles\SitecoreDev.Feature.Articles.csproj", "{518191BC-4D63-402C-80AD-8D4BFD9C77A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,6 +58,10 @@ Global
 		{CA46EF8D-229B-40F6-8822-72E40928979F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA46EF8D-229B-40F6-8822-72E40928979F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA46EF8D-229B-40F6-8822-72E40928979F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{518191BC-4D63-402C-80AD-8D4BFD9C77A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518191BC-4D63-402C-80AD-8D4BFD9C77A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518191BC-4D63-402C-80AD-8D4BFD9C77A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518191BC-4D63-402C-80AD-8D4BFD9C77A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,5 +75,7 @@ Global
 		{0024F355-3F6F-4307-8207-A3693AFE8748} = {1A14E867-059C-4173-A7F8-5B6BE8BF13D7}
 		{AE0A6976-B5E1-486C-B2FA-BAB7CDC79DC8} = {C9BB3345-C37D-452F-9368-B848625FB942}
 		{CA46EF8D-229B-40F6-8822-72E40928979F} = {AE0A6976-B5E1-486C-B2FA-BAB7CDC79DC8}
+		{1BB25105-F854-4351-B451-71A61E65B0D2} = {C9BB3345-C37D-452F-9368-B848625FB942}
+		{518191BC-4D63-402C-80AD-8D4BFD9C77A4} = {1BB25105-F854-4351-B451-71A61E65B0D2}
 	EndGlobalSection
 EndGlobal
