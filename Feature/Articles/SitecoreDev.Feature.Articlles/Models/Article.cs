@@ -7,8 +7,9 @@ namespace SitecoreDev.Feature.Articles.Models
 {
     public class Article : IArticle
     {
-        public string Id { get; set; }
+        public Guid Id { get; }
         public string Title { get; set; }
         public string Body { get; set; }
+        public string AuthorName { get; set; }
     }
 }

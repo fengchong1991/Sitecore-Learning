@@ -19,7 +19,7 @@ namespace SitecoreDev.Feature.Articles.Repositories
             {
                 Name = "Jane",
                 Comment = "You’re a really smart guy! Keep up the good work!",
-                DatePosted = DateTime.Parse("03/16/2016")
+                DatePosted = DateTime.Parse("03/11/2016")
             });
 
             return comments;

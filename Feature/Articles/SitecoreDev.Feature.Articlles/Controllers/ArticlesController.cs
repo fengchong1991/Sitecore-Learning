@@ -3,6 +3,7 @@ using System.Web.Mvc;
 using Sitecore.Mvc.Presentation;
 using SitecoreDev.Feature.Articles.Services;
 using SitecoreDev.Feature.Articles.ViewModels;
+using Sitecore.Mvc.Controllers;
 
 namespace SitecoreDev.Feature.Articles.Controllers
 {
@@ -26,7 +27,7 @@ namespace SitecoreDev.Feature.Articles.Controllers
                 {
                     viewModel.Title = blogContent.Title;
                     viewModel.Body = blogContent.Body;
-                    var comments = _commentService.GetComments(blogContent.Id);
+                    var comments = _commentService.GetComments(blogContent.Id.ToString());
                     if (comments != null)
                     {
                         foreach (var comment in comments)

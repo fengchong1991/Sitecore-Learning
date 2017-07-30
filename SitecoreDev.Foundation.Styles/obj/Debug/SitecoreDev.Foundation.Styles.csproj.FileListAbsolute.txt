@@ -43,3 +43,4 @@ F:\Projects\Sitecore\SitecoreDev.Foundation.Styles\bin\System.Web.Helpers.xml
 F:\Projects\Sitecore\SitecoreDev.Foundation.Styles\bin\System.Web.Mvc.xml
 F:\Projects\Sitecore\SitecoreDev.Foundation.Styles\obj\Debug\SitecoreDev.Foundation.Styles.dll
 F:\Projects\Sitecore\SitecoreDev.Foundation.Styles\obj\Debug\SitecoreDev.Foundation.Styles.pdb
+F:\Projects\Sitecore\SitecoreDev.Foundation.Styles\obj\Debug\SitecoreDev.Foundation.Styles.csprojResolveAssemblyReference.cache
